@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import sys # Import sys to check paths
 import logging
 
-# Print Python paths for debugging imports
+
 print("--- Python sys.path ---")
 for path in sys.path:
     print(path)
