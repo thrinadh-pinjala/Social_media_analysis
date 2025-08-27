@@ -13,7 +13,6 @@ scikit-learn==1.6.1
 networkx==3.2.1
 google-api-python-client==2.86.0
 wordcloud==1.9.4
-=======
 flask==2.0.1
 pymongo==4.1.1
 nltk==3.6.3
@@ -25,4 +24,3 @@ networkx==2.6.3
 matplotlib==3.4.3
 python-dotenv==0.19.0
 flask-cors==3.0.10 
->>>>>>> c8a857fa256e313499fd68ec9d7901f1dccf1d75
